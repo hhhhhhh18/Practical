@@ -1,0 +1,17 @@
+User Management Commands
+
+useradd
+adduser
+passwd
+usermod
+userdel
+groupadd
+groupdel
+groupmod
+id
+whoami
+who
+w
+last
+su
+sudo
