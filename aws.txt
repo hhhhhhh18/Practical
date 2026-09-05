@@ -1,0 +1,20 @@
+AWS Global Infrastructure
+
+AWS Global Infrastructure consists of:
+
+1. Regions
+2. Availability Zones
+3. Edge Locations
+4. Points of Presence
+
+Regions:
+An AWS Region is a separate geographical area containing multiple Availability Zones.
+
+Availability Zones:
+Availability Zones are isolated data centers within an AWS Region.
+
+Edge Locations:
+Edge Locations are used by services such as Amazon CloudFront to deliver content closer to users.
+
+Points of Presence:
+Points of Presence are locations used by AWS services for low-latency content delivery and networking.
