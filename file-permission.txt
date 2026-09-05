@@ -1,0 +1,28 @@
+Linux File Permissions
+
+Linux file permissions control who can read, write, and execute a file.
+
+Permission types:
+
+r = Read
+w = Write
+x = Execute
+
+Permission categories:
+
+u = User
+g = Group
+o = Others
+
+Commands:
+
+ls -l
+chmod
+chown
+chgrp
+
+Examples:
+
+chmod 755 file.sh
+chmod 644 file.txt
+chown user:user file.txt
